@@ -1,5 +1,7 @@
-import HomePage from "../src/App"; // or wherever your UI is
-
 export default function Home() {
-  return <HomePage />;
+  return (
+    <div>
+      <h1>My Website is Working 🚀</h1>
+    </div>
+  );
 }
